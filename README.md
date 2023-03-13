@@ -1,5 +1,3 @@
 # SQL-Empleos
 
-dasdasdasdd
-asdsad
-asd
+# Comando 
